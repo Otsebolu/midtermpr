@@ -1,5 +1,5 @@
 # midtermpr
-mid term project submitted to Data-in-the-cloud-program @ Great Learning/MIT
+Mid term project submitted to Data-in-the-cloud-program @ Great Learning/MIT
 
 MID TERM PROJECT
 
